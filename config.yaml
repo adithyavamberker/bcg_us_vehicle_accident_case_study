@@ -1,0 +1,23 @@
+INPUT_FILENAME:
+  Charges: /content/drive/MyDrive/car_crash_case_study/data/Charges_use.csv
+  Damages: /content/drive/MyDrive/car_crash_case_study/data/Damages_use.csv
+  Endorse: /content/drive/MyDrive/car_crash_case_study/data/Endorse_use.csv
+  Primary_Person: /content/drive/MyDrive/car_crash_case_study/data/Primary_Person_use.csv
+  Units: /content/drive/MyDrive/car_crash_case_study/data/Units_use.csv
+  Restrict: /content/drive/MyDrive/car_crash_case_study/data/Restrict_use.csv
+
+OUTPUT_PATH:
+  1: /content/drive/MyDrive/car_crash_case_study/Output/1
+  2: /content/drive/MyDrive/car_crash_case_study/Output/2
+  3: /content/drive/MyDrive/car_crash_case_study/Output/3
+  4: /content/drive/MyDrive/car_crash_case_study/Output/4
+  5: /content/drive/MyDrive/car_crash_case_study/Output/5
+  6: /content/drive/MyDrive/car_crash_case_study/Output/6
+  7: /content/drive/MyDrive/car_crash_case_study/Output/7
+  8: /content/drive/MyDrive/car_crash_case_study/Output/8
+  9: /content/drive/MyDrive/car_crash_case_study/Output/9
+  10: /content/drive/MyDrive/car_crash_case_study//Output/10
+
+
+FILE_FORMAT:
+  Output: csv

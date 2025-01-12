@@ -98,7 +98,7 @@ Processed results are stored in the `output` folder. Each transformation creates
 
 ## Author
 
-Adithya  
-Senior Data Engineer  
-[LinkedIn Profile](https://linkedin.com/in/adithya)
+Adithya V Amberker
+
+[LinkedIn Profile](https://www.linkedin.com/in/adithya-v-amberker-0b12b828b/)
 
